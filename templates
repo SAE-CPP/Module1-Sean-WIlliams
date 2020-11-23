@@ -1,0 +1,22 @@
+1 header
+#include <iostream>
+#include <string>
+using namespace std;
+
+2 speech 
+cout << "" << endl;
+
+3 main process
+int main() {
+}
+
+4 case 
+case 'x':
+case 'y':
+
+5 while loop
+	while () {
+		if () {
+			break;
+		}
+
